@@ -1,16 +1,56 @@
 [
-    {
-      "id": 1,
-      "title": "Тартарен Тарасконський",
-      "price": 250,
-      "image": "https://akonit.net/image/cache/wp/gj/feed_3/50865-360490-200x200.webp",
-      "isHit": true
-    },
-    {
-      "id": 2,
-      "title": "Тінь лисиці",
-      "price": 350,
-      "image": "https://akonit.net/image/cache/wp/gj/feed_3/50873-360511-200x200.webp"
-    }
-  ]
-  
+  { "id": 1, "title": "Тартарен Тарасконський", "price": 250, "image": "https://picsum.photos/seed/1/200/200", "isHit": true },
+  { "id": 2, "title": "Тінь лисиці", "price": 350, "image": "https://picsum.photos/seed/2/200/200" },
+  { "id": 3, "title": "Місто вітрів", "price": 280, "image": "https://picsum.photos/seed/3/200/200" },
+  { "id": 4, "title": "Хроніки півночі", "price": 420, "image": "https://picsum.photos/seed/4/200/200", "isHit": true },
+  { "id": 5, "title": "Останній алхімік", "price": 390, "image": "https://picsum.photos/seed/5/200/200" },
+  { "id": 6, "title": "Пісня каміння", "price": 310, "image": "https://picsum.photos/seed/6/200/200" },
+  { "id": 7, "title": "Темна вода", "price": 260, "image": "https://picsum.photos/seed/7/200/200" },
+  { "id": 8, "title": "Срібний шлях", "price": 330, "image": "https://picsum.photos/seed/8/200/200" },
+  { "id": 9, "title": "Книга забутих снів", "price": 450, "image": "https://picsum.photos/seed/9/200/200", "isHit": true },
+  { "id": 10, "title": "Лабіринт часу", "price": 370, "image": "https://picsum.photos/seed/10/200/200" },
+
+  { "id": 11, "title": "Вогонь серед льоду", "price": 340, "image": "https://picsum.photos/seed/11/200/200" },
+  { "id": 12, "title": "Дім без тіней", "price": 290, "image": "https://picsum.photos/seed/12/200/200" },
+  { "id": 13, "title": "Мандрівник між світами", "price": 410, "image": "https://picsum.photos/seed/13/200/200", "isHit": true },
+  { "id": 14, "title": "Залізне серце", "price": 360, "image": "https://picsum.photos/seed/14/200/200" },
+  { "id": 15, "title": "Тиша над прірвою", "price": 300, "image": "https://picsum.photos/seed/15/200/200" },
+  { "id": 16, "title": "Королівство попелу", "price": 480, "image": "https://picsum.photos/seed/16/200/200" },
+  { "id": 17, "title": "Механіка душі", "price": 395, "image": "https://picsum.photos/seed/17/200/200" },
+  { "id": 18, "title": "Під скляним небом", "price": 275, "image": "https://picsum.photos/seed/18/200/200" },
+  { "id": 19, "title": "Острів забутих", "price": 325, "image": "https://picsum.photos/seed/19/200/200" },
+  { "id": 20, "title": "Кров і чорнило", "price": 360, "image": "https://picsum.photos/seed/20/200/200", "isHit": true },
+
+  { "id": 21, "title": "Нічний архів", "price": 340, "image": "https://picsum.photos/seed/21/200/200" },
+  { "id": 22, "title": "Світло маяка", "price": 255, "image": "https://picsum.photos/seed/22/200/200" },
+  { "id": 23, "title": "Памʼять води", "price": 315, "image": "https://picsum.photos/seed/23/200/200" },
+  { "id": 24, "title": "Карта без країв", "price": 380, "image": "https://picsum.photos/seed/24/200/200" },
+  { "id": 25, "title": "Оповідач тіней", "price": 410, "image": "https://picsum.photos/seed/25/200/200" },
+  { "id": 26, "title": "Пісок і зірки", "price": 295, "image": "https://picsum.photos/seed/26/200/200" },
+  { "id": 27, "title": "Сад мовчання", "price": 270, "image": "https://picsum.photos/seed/27/200/200" },
+  { "id": 28, "title": "Трон із кісток", "price": 460, "image": "https://picsum.photos/seed/28/200/200", "isHit": true },
+  { "id": 29, "title": "Ріка між нами", "price": 305, "image": "https://picsum.photos/seed/29/200/200" },
+  { "id": 30, "title": "Знак воронів", "price": 355, "image": "https://picsum.photos/seed/30/200/200" },
+
+  { "id": 31, "title": "Межа світла", "price": 330, "image": "https://picsum.photos/seed/31/200/200" },
+  { "id": 32, "title": "Прах героїв", "price": 390, "image": "https://picsum.photos/seed/32/200/200" },
+  { "id": 33, "title": "Голос глибини", "price": 345, "image": "https://picsum.photos/seed/33/200/200" },
+  { "id": 34, "title": "Міст між снами", "price": 315, "image": "https://picsum.photos/seed/34/200/200" },
+  { "id": 35, "title": "Золото сутінків", "price": 425, "image": "https://picsum.photos/seed/35/200/200" },
+  { "id": 36, "title": "Печать долі", "price": 360, "image": "https://picsum.photos/seed/36/200/200" },
+  { "id": 37, "title": "Шепіт лісу", "price": 285, "image": "https://picsum.photos/seed/37/200/200" },
+  { "id": 38, "title": "Небо без зірок", "price": 370, "image": "https://picsum.photos/seed/38/200/200" },
+  { "id": 39, "title": "Кодекс мандрівника", "price": 410, "image": "https://picsum.photos/seed/39/200/200", "isHit": true },
+  { "id": 40, "title": "Остання брама", "price": 450, "image": "https://picsum.photos/seed/40/200/200" },
+
+  { "id": 41, "title": "Чорний маяк", "price": 335, "image": "https://picsum.photos/seed/41/200/200" },
+  { "id": 42, "title": "Перо фенікса", "price": 390, "image": "https://picsum.photos/seed/42/200/200" },
+  { "id": 43, "title": "Зламана корона", "price": 420, "image": "https://picsum.photos/seed/43/200/200" },
+  { "id": 44, "title": "Місяць над руїнами", "price": 365, "image": "https://picsum.photos/seed/44/200/200" },
+  { "id": 45, "title": "Порт туманів", "price": 310, "image": "https://picsum.photos/seed/45/200/200" },
+  { "id": 46, "title": "Сльози сталі", "price": 385, "image": "https://picsum.photos/seed/46/200/200" },
+  { "id": 47, "title": "Книга межі", "price": 440, "image": "https://picsum.photos/seed/47/200/200" },
+  { "id": 48, "title": "Зоряний пил", "price": 295, "image": "https://picsum.photos/seed/48/200/200" },
+  { "id": 49, "title": "Тінь короля", "price": 410, "image": "https://picsum.photos/seed/49/200/200" },
+  { "id": 50, "title": "Дорога без імені", "price": 350, "image": "https://picsum.photos/seed/50/200/200", "isHit": true }
+]
